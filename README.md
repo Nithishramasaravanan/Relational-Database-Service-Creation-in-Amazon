@@ -1,7 +1,7 @@
 # RELATIONAL DATABASE SERVICE CREATION IN AMAZON
 
-### REG NO:212222230023
-### NAME: BRINDHA R
+### REG NO:212222040107
+### NAME: NITHISH R
 
 ## AIM
   To Relational Database Service Creation in Amazon.
